@@ -65,7 +65,7 @@
 	</dependencyManagement>
 
 	<build>
-		<finalName>server_registry</finalName>
+		<finalName>server-registry</finalName>
 		<plugins>
 			<!-- Spring Boot Maven Plugin -->
 			<plugin>
