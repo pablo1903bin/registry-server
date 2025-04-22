@@ -1,6 +1,16 @@
+
+${AnsiColor.CYAN}
 __________              .__          __                            _________                  .__              
 \______   \ ____   ____ |__| _______/  |________ ___.__.          /   _____/ ______________  _|__| ____  ____  
  |       _// __ \ / ___\|  |/  ___/\   __\_  __ <   |  |  ______  \_____  \_/ __ \_  __ \  \/ /  |/ ___\/ __ \ 
  |    |   \  ___// /_/  >  |\___ \  |  |  |  | \/\___  | /_____/  /        \  ___/|  | \/\   /|  \  \__\  ___/ 
  |____|_  /\___  >___  /|__/____  > |__|  |__|   / ____|         /_______  /\___  >__|    \_/ |__|\___  >___  >
         \/     \/_____/         \/               \/                      \/     \/                    \/    \/ 
+        
+${AnsiColor.YELLOW}:: Aplicación ::${AnsiColor.GREEN} ${application.name}
+${AnsiColor.YELLOW}:: Versión App ::${AnsiColor.GREEN} ${application.version}
+${AnsiColor.YELLOW}:: Spring Boot ::${AnsiColor.GREEN} ${spring-boot.version}
+${AnsiColor.YELLOW}:: Java        ::${AnsiColor.GREEN} ${java.version}
+${AnsiColor.YELLOW}:: Sistema     ::${AnsiColor.GREEN} ${os.name}
+${AnsiColor.YELLOW}:: Usuario     ::${AnsiColor.GREEN} ${user.name}
+${AnsiColor.DEFAULT}
